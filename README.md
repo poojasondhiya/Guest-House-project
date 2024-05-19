@@ -1,5 +1,5 @@
 # Guest-House-project
-King Sukh Guest House project. using HTML, CSS , JavaScript And Bootstrap build a responsive frontend web page
+King Sukh Guest House project. using HTML, CSS , JavaScript And Bootstrap build a responsive frontend web page .
 
 Certainly! Here's a brief introduction for the King Sukh Guest House project, highlighting its key features and technologies used:
 
